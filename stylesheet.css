@@ -1,0 +1,48 @@
+p {
+  color: pink;
+}
+
+nav a {
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+}
+#nav {
+  width: 20%;
+}
+
+#logo {
+  width: 80%;
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+
+#banner {
+  width:100%;
+}
+
+.center{
+  text-align: center;
+}
+
+.left{
+  float: right;
+}
+
+#main {
+  margin-left:20%;
+}
+
+.photos {
+ width:auto;
+ height: 400px;
+
+}
+
+ul{
+  list-style-type: none;
+}
+
+footer {
+  font-size: 20px;
+}
