@@ -30,13 +30,12 @@ nav a {
 
 .left{
     float: right;
-=======
+}
 .topspace{
   margin-top: 2%;
 }
 .right{
   float: right;
->>>>>>> refs/remotes/Freshmen15/master
 }
 
 #main {
@@ -44,14 +43,8 @@ nav a {
 }
 
 .photos {
-<<<<<<< HEAD
     width:100%;
     height: 400px;
-=======
- width:100%;
- height: 400px;
->>>>>>> refs/remotes/Freshmen15/master
-
 }
 
 ul{
